@@ -1,0 +1,1 @@
+function X = brighten(A,t)  X = uint8(256* A * t);endfunction
